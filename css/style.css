@@ -135,3 +135,16 @@ ul.top_menu {
   display: block;
   clear: both;
 }
+
+.banner_content {
+  margin-top: 10px;
+  display: table;
+}
+
+.banner_content p {
+  display: table-cell;
+}
+
+.banner_content p img {
+  width: 100%;
+}
