@@ -1,0 +1,23 @@
+tr {
+  height: 7rem;
+  width: 150px;
+}
+
+td {
+  padding-left: 20px;
+}
+
+.contact-form {
+  width: 480px;
+}
+
+.post-button {
+  font-size: 3rem;
+  color: #ffffff;
+  background-color: #00ffff;
+  position: static;
+}
+
+.post-button:hover {
+  opacity: 0.5;
+}
